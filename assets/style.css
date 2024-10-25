@@ -1,0 +1,68 @@
+.st-emotion-cache-1r4qj8v{
+    background-color:rgb(237, 224, 178);}
+.st-emotion-cache-1gwvy71 h1{
+    color:blueviolet
+}
+.st-emotion-cache-vmpjyt{
+    background-color: rgb(194, 234, 233);
+}
+.st-emotion-cache-ue6h4q{
+    color:rgb(226, 12, 119)
+}
+.st-emotion-cache-jkfxgf p{
+    font-size:25px;
+    font-weight:bold;
+}
+.st-b6{
+    color:rgb(14, 118, 150);
+    background-color: rgb(230, 179, 201);
+    font-weight:bold;
+    }
+.st-b6 :hover{
+    color:rgb(226, 236, 239);
+    background-color: rgb(0, 0, 0);
+    font-weight:bold;}
+.st-am{
+    width:100%
+}
+.st-emotion-cache-6v4t1a{
+    border-width:0px;
+}
+.stSelectbox{
+    width:200px;
+}
+[data-testid="stNumberInputContainer"] {
+    width:400px;
+}
+.st-emotion-cache-zbmw0q{
+    width:40px;
+    background-color: rgb(21, 199, 243);
+    color:black;
+}
+[data-testid="stNumberInputStepDown"]{
+    background-color: rgb(10, 227, 97);
+}
+[data-testid="stNumberInputStepDown"] :focus{
+    background-color: rgb(226, 246, 8);
+}
+.st-emotion-cache-1r4qj8v{
+    color:brown;
+}
+.stButton{
+    width:200px;
+}
+.stButton :hover{
+    background-color:white;
+    color:rgb(114, 100, 59);
+    
+}
+.st-emotion-cache-12h5x7g p{
+    font-size:22px;
+}
+.st-emotion-cache-1vt4y43{
+    background-color: rgb(114, 100, 59);
+    color:white;
+}
+.st-emotion-cache-1vt4y43:hover{
+    border:2px solid red
+}
